@@ -1,0 +1,23 @@
+span {
+    background-color: red
+}
+
+.box {
+    background-color: blue;
+    border: 2px dashed black;
+    padding: 100px;
+    width: 100px;
+}
+
+.box-0 {
+    background-color: red;
+    border: 2px dashed black;
+    padding : 10px;
+    width : 100px;
+}
+
+form label{
+    display: inline-block;
+    background-color: red;
+}
+}
